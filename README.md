@@ -1,0 +1,2 @@
+# pypaskel
+Python Package Skeleton
