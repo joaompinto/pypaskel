@@ -1,0 +1,2 @@
+include LICENSEinclude versioneer.py
+include pypaskel/_version.py
