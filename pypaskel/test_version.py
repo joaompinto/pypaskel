@@ -2,5 +2,6 @@
 
 from pypaskel import __version__
 
+
 def test_something():
-  assert(__version__)
+    assert __version__
