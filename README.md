@@ -3,11 +3,8 @@ Python Package Skeleton
 
 ## Introduction
 
-This repository
-This repositoy is aimed t
-should be usefull for those already familiar with the Python programming language and Git for source version control
+This repository provides a template for developing a new python package, the templates contains integration for some best practices for quality control & code validation.
 
-Once you learn the fundamentals of Python programming and GitHub
 
 
 ## Features
@@ -15,3 +12,12 @@ Once you learn the fundamentals of Python programming and GitHub
 - Keep consistent code formatting using [black](https://github.com/psf/black/)
 - Automated Version Management
     - [versioneer](https://github.com/warner/python-versioneer)
+
+## How to use
+
+Create your own clone of this template using the [link](https://github.com/joaompinto/pypaskel/generate) .
+
+Clone your repository 
+```sh
+git clone your_repository_url
+```
